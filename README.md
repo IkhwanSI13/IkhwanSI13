@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 I'm Ikhwan! 
 
 <h2>🔭 I’m currently working </h2> 
-<h4>Cartenz Technology Indonesia</h4>
+<h4>Mekari</h4>
 
-Now working as Software Engineer (Mobile) at [Cartenz Technology Indonesia](https://cartenz.co.id/). I contribute in many project such as [Citigov](https://citigov.id/), [Smartgov](https://smartgov.id/), and other awesome projects.
+Now working as Software Engineer - Mobile at [Mekari](https://mekari.com/).
 
 <h4>Blogger 💯</h4>
 
@@ -28,11 +28,11 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/IkhwanSI13/Explore_MotionLayout">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkhwanSI13&repo=Explore_MotionLayout" alt="GitHub Stats" />
+    <a href="https://github.com/IkhwanSI13/Explore_Widget">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkhwanSI13&repo=Explore_Widget" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/IkhwanSI13/helper_set">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkhwanSI13&repo=helper_set" alt="GitHub Stats" />
+    <a href="https://github.com/IkhwanSI13/tap_tap">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkhwanSI13&repo=tap_tap" alt="GitHub Stats" />
     </a>
   </p>
 </div>
